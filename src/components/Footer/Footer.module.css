@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #f8f9fa;
+    padding: 1em;
+    text-align: center;
+    background-color: var(--preto);
+}
+
+.footer h2 {
+    color: var(--branco);
+}
